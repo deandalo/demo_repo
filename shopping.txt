@@ -18,7 +18,15 @@ soup
 ice cream
 1 box of sugar
 flour
+<<<<<<< HEAD
 butter
 coffee
 tomatoes
 pears
+=======
+
+Jerry
+George
+Elaine
+Kramer
+>>>>>>> 132df7505654a1cd5a7314bcbb117a2adb07c906
